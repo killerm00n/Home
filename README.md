@@ -7,7 +7,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div class="container">
+  我是容器内容
+</div>
 
+<style> 
+.container{
+ color:red; 
+ }
+</style>
 ```markdown
 Syntax highlighted code block
 
@@ -21,15 +29,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-<div class="container">
-  我是容器内容
-</div>
 
-<style> 
-.container{
- color:red; 
- }
-</style>
 
 12311
 
